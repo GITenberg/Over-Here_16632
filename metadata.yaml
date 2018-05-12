@@ -1,0 +1,34 @@
+_repo: Over-Here_16632
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16632-h/images/overherecover.jpg
+creator:
+  author:
+    agent_name: Guest, Edgar A. (Edgar Albert)
+    aliases:
+    - Guest, Edgar Albert
+    - Guest, Eddie
+    birthdate: 1881
+    deathdate: 1959
+    gutenberg_agent_id: '182'
+    url: http://www.gutenberg.org/2009/agents/182
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Guest
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- World War I
+gutenberg_issued: '2005-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16632'
+  lccn: '18006798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+title: Over Here
+url: http://www.gutenberg.org/ebooks/16632
